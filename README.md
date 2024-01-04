@@ -1,2 +1,2 @@
 # React + Vite
-Create a TODO task using React, CRUD functionalities
+ <h2>Create a TODO task using React, CRUD functionalities</h2>
